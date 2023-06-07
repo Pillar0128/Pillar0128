@@ -11,7 +11,6 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Legendary0326&theme=github&count_private=true" />
 <h1 align="center"></h1>
 
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legendary0326&layout=compact&theme=chartreuse-dark&langs_count=8" />
 <img height="150" />
 </br>
 
