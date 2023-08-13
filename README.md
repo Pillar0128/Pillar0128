@@ -11,7 +11,7 @@
 <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Legendary0326&theme=github&count_private=true" />
 <h1 align="center"></h1>
 
-<img height="150" />
+
 </br>
 
 <h3 align="left">Languages and Tools</h3>
