@@ -1,7 +1,7 @@
 # :desktop_computer:Senior Web & Mobile Engineer:vibration_mode:
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+stacks" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=500&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;I+am+a+Front+End+Developer+;I+am+a+Mobile+Developer+;Always+learning+new+stacks" alt="Typing SVG" /></a>
 <br/>
 - 🔭 A talented web and mobile engineer focused on frontend with over 9 years of experience in building web and mobile applications using modern technologies and frameworks.<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Angular, Vue.js, as well as back-end technologies like Node.js, PHP, C#, Java, and Python<br/>
