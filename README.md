@@ -176,7 +176,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Pillar0128}/count.svg" alt="Pillar0128 :: Visitor's Count" /></p>
 
 <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=whitehorse21&data=followers,repositories,stars,commits' />
+<img src='https://github-widgetbox.vercel.app/api/profile?username=Pillar0128&data=followers,repositories,stars,commits' />
 </p>
 
 <a href="https://github.com/Pillar0128?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Pillar0128&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Pillar0128's github-readme-stats"/></a>
