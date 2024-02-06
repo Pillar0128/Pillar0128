@@ -6,7 +6,7 @@
 - 🔭 A talented web and mobile engineer focused on frontend with over 10 years of experience in building web and mobile applications using modern technologies and frameworks.<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Angular, Vue.js, as well as back-end technologies like Node.js, PHP, C#, Java, and Python<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed AI Applications and integrated with web and ChatGPT.<br/>
+- 😍 Integrated AI technologies and developed Web3 fields<br/>
 </div>
 
 <h2>My stack :man_technologist:</h2>
